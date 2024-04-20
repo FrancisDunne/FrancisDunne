@@ -54,6 +54,11 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
+<a href="https://www.udemy.com/certificate/UC-034fe9ff-5359-4b4a-8475-4b0c5041e0b4/">
+  <img src="https://img.shields.io/badge/-SOC%20Analyst%20Training-000000?&style=for-the-badge" />
+</a>
+
+
 
 
 <img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp%20by%20Zero%20to%20Mastery-000000?&style=for-the-badge" />
