@@ -46,7 +46,11 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="file:///C:/Users/fdunn/OneDrive/Desktop/Software%20Portfollio/Certificates/Google%20CyberSecurity%20Professional%20Certificate.pdf">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
+
 <img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp%20by%20Zero%20to%20Mastery-000000?&style=for-the-badge" />
 
 </div>
