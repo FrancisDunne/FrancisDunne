@@ -58,11 +58,6 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
   <img src="https://img.shields.io/badge/-SOC%20Analyst%20Training-000000?&style=for-the-badge" />
 </a>
 
-
-
-
-<img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp%20by%20Zero%20to%20Mastery-000000?&style=for-the-badge" />
-
 </div>
 
 ## Projects
