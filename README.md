@@ -45,12 +45,10 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="file:///C:/Users/fdunn/OneDrive/Desktop/Software%20Portfollio/Certificates/CompTIA%20Security+%20ce%20certificate.pdf">
+<a href="https://www.credly.com/badges/d2fdf457-a30a-458d-8894-61ef62bcf501">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/JKRRFT8QLXU2">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
