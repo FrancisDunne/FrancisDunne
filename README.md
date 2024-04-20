@@ -31,9 +31,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://zeek.org/">
         <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     </a>
-    <a href="https://nmap.org/">
-        <img src="https://img.shields.io/badge/-Nmap-4CBB17?&style=for-the-badge&logo=nmap&logoColor=white" />
-    </a>
+
 
 </div>
 
