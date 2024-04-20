@@ -36,9 +36,14 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/security/business/defender-endpoint">
+        <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://www.velocidex.com/">
+        <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    </a>
 </div>
+
 
 ### SIEM
 <div>
