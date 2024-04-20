@@ -45,7 +45,8 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="file:///C:/Users/fdunn/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">
+<a href="file:///C:/Users/fdunn/OneDrive/Desktop/Software%20Portfollio/Certificates/CompTIA%20Security+%20ce%20certificate.pdf">Download CompTIA Security+ CE Certificate</a>
+>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
