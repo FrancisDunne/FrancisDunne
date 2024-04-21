@@ -88,8 +88,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 </a>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/NNKDD8C83UAV">
-    <img src="https://img.shields.io/badge/-Coursera%20Specialization-FF1493?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Advanced%20Python%20Scripts%20for%20Cybersecurity-2F4F4F?style=for-the-badge" />
 </a>
+
 
 
 
