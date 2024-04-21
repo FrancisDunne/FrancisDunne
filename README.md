@@ -18,7 +18,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Documenting an Incident report analysis | <a href="https://github.com/FrancisDunne/Incident_Report_Analysis">Incident Report Analysis</a>|
-| Documenting an Incident report analysis | <a href="https://github.com/FrancisDunne/File_Permissions/blob/main/README.md">File Permissionss</a>|
+| Implementing change permissions via Linux | <a href="https://github.com/FrancisDunne/File_Permissions/blob/main/README.md">File Permissionss</a>|
 
 ## Tools
 
