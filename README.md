@@ -71,8 +71,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 </a>
 
 <a href="https://github.com/FrancisDunne/FrancisDunne/files/15051890/Zertifikat_Dunne.Francis.James_FbW.P.22.-E04.5275.pdf" download>
-<img src="https://img.shields.io/badge/-Digital%20Career%20Institute%20Python%20Development-0073e6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Digital%20Career%20Institute%20Python%20Development-FF4500?style=for-the-badge" />
 </a>
+
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/JKRRFT8QLXU2">
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
