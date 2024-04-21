@@ -83,10 +83,14 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <img src="https://img.shields.io/badge/-SOC%20Analyst%20(BLUETEAM)-FFD700?&style=for-the-badge" />
 </a>
 
-
 <a href="https://www.udemy.com/certificate/UC-deab99cd-820e-4807-826a-b39b4f536540/">
     <img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp-006400?&style=for-the-badge" />
 </a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/NNKDD8C83UAV">
+    <img src="https://img.shields.io/badge/-Coursera%20Specialization-FF1493?style=for-the-badge" />
+</a>
+
 
 
 
