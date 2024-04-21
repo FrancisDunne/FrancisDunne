@@ -69,8 +69,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 <a href="https://www.credly.com/badges/d2fdf457-a30a-458d-8894-61ef62bcf501">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a
-[Zertifikat_Dunne, Francis James_FbW P 22 -E04[5275].pdf](https://github.com/FrancisDunne/FrancisDunne/files/15051765/Zertifikat_Dunne.Francis.James_FbW.P.22.-E04.5275.pdf)
+<a href=[Zertifikat_Dunne, Francis James_FbW P 22 -E04[5275].pdf](https://github.com/FrancisDunne/FrancisDunne/files/15051765/Zertifikat_Dunne.Francis.James_FbW.P.22.-E04.5275.pdf)
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
+
 
 
 </a>
