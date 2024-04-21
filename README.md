@@ -83,8 +83,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 </a>
 
 <a href="https://www.udemy.com/certificate/UC-deab99cd-820e-4807-826a-b39b4f536540/">
-<img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp-00FF00?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Ethical%20Hacking%20Bootcamp-006400?&style=for-the-badge" />
 </a>
+
 
 
 
