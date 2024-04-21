@@ -87,13 +87,6 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 </a>
 </div>
 
-
-<a href="https://github.com/FrancisDunne/FrancisDunne/files/15051890/Zertifikat_Dunne.Francis.James_FbW.P.22.-E04.5275.pdf" download>
-Download Certificate </a>
-</div>
-
-
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
