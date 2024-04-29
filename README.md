@@ -99,4 +99,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <img src="https://img.shields.io/badge/-Incident%20Report%20Analysis-0000FF?style=for-the-badge" />
 </a>
 
-- SOC Automation Project
+- <a href="https://github.com/FrancisDunne/Active_Directory">
+    <img src="https://img.shields.io/badge/-Active%20Directory-0000FF?style=for-the-badge" />
+</a>
+
