@@ -92,16 +92,11 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <img src="https://img.shields.io/badge/-Advanced%20Python%20Scripting%20for%20Cybersecurity-800080?style=for-the-badge&logo=infosec" />
 </a>
 
-
-
-
-
-
-
-
-
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/FrancisDunne/Incident_Report_Analysis">
+    <img src="https://img.shields.io/badge/-Incident%20Report%20Analysis-0000FF?style=for-the-badge" />
+</a>
+
 - SOC Automation Project
