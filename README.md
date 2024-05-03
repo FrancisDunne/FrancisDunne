@@ -140,20 +140,21 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 ## Projects
 - <a href="https://github.com/FrancisDunne/Incident_Report_Analysis">
-    <img src="https://img.shields.io/badge/-Incident%20Report%20Analysis-0000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Incident%20Report%20Analysis-808080?style=for-the-badge" />
 </a>
 
 - <a href="https://github.com/FrancisDunne/Active_Directory">
-    <img src="https://img.shields.io/badge/-Active%20Directory-0000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-808080?style=for-the-badge" />
 </a>
 
 - <a href="https://github.com/FrancisDunne/File_Permissions">
-    <img src="https://img.shields.io/badge/-File%20Permissions-0000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-File%20Permissions-808080?style=for-the-badge" />
 </a>
 
 - <a href="https://github.com/FrancisDunne/Phishing_Incident_Alert_ticket">
-    <img src="https://img.shields.io/badge/-Phishing%20Incident%20Alert%20Ticket-0000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Phishing%20Incident%20Alert%20Ticket-808080?style=for-the-badge" />
 </a>
+
 
 
 
