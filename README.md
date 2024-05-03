@@ -47,6 +47,10 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://learn.microsoft.com/de-de/sysinternals/downloads/sysmon">
         <img src="https://img.shields.io/badge/-Sysmon-FFA07A?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Sysmon" />
     </a>
+    <a href="https://wazuh.com/">
+        <img src="https://img.shields.io/badge/-Wazuh-FFA500?style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh" />
+    </a>
+
 
 </div>
 
