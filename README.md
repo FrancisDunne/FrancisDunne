@@ -50,8 +50,6 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://wazuh.com/">
         <img src="https://img.shields.io/badge/-Wazuh-FFA500?style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh" />
     </a>
-
-
 </div>
 
 ### Security Information & Event Management (SIEM)
@@ -77,7 +75,13 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     </a>
 </div>
 
-### 
+### Digital Forensics & Incident Response
+<div>
+    <a href="https://www.autopsy.com/">
+        <img src="https://img.shields.io/badge/-Autopsy-B19CD9?style=for-the-badge&logo=Autopsy&logoColor=white" alt="Autopsy" />
+    </a>
+
+</div>
 
 
 ## Certifications
