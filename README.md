@@ -54,7 +54,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 </div>
 
-### SIEM
+### Security Information & Event Management (SIEM)
 <div>
     <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/">
         <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
