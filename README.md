@@ -83,6 +83,10 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
       <a href="https://www.velocidex.com/">
         <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     </a>
+    <a href="https://thehive-project.org/">
+        <img src="https://img.shields.io/badge/-TheHive-D4AF37?style=for-the-badge&logo=TheHive&logoColor=white" alt="TheHive" />
+    </a>
+
 
 </div>
 
