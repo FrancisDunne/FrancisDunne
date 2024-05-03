@@ -23,7 +23,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 ## Tools
 
-### Network
+### Network Traffic & Traffic Analysis
 <div>
     <a href="https://www.wireshark.org/">
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -34,11 +34,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://zeek.org/">
         <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     </a>
-
-
 </div>
 
-### Endpoint
+### Endpoint Security Monitoring
 <div>
     <a href="https://www.microsoft.com/en-us/security/business/defender-endpoint">
         <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -46,6 +44,10 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://www.velocidex.com/">
         <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     </a>
+    <a href="https://learn.microsoft.com/de-de/sysinternals/downloads/sysmon">
+        <img src="https://img.shields.io/badge/-Sysmon-FFA07A?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Sysmon" />
+    </a>
+
 </div>
 
 ### SIEM
