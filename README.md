@@ -38,7 +38,6 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 </div>
 
-
 ### Endpoint
 <div>
     <a href="https://www.microsoft.com/en-us/security/business/defender-endpoint">
@@ -48,7 +47,6 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
         <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     </a>
 </div>
-
 
 ### SIEM
 <div>
@@ -60,6 +58,13 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     </a>
     <a href="https://www.elastic.co/">
         <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    </a>
+</div>
+
+### Cyber Threat Intelligence
+<div>
+      <a href="https://docs.opencti.io/latest">
+        <img src="https://img.shields.io/badge/-opencti&style=for-the-badge&logo=opencti&logoColor=white" />
     </a>
 </div>
 
