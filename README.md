@@ -23,6 +23,23 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 ## Tools
 
+### Cybe Defense Frameworks
+<div>
+    <a href="https://www.attackiq.com/glossary/pyramid-of-pain/">
+        <img src="https://img.shields.io/badge/-Pyramid%20of%20Pain-DAA520?style=for-the-badge" alt="Pyramid of Pain" />
+    </a>
+    <a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">
+        <img src="https://img.shields.io/badge/-Cyber%20Kill%20Chain-00008B?style=for-the-badge" alt="Cyber Kill Chain" />
+    </a>
+    <a href="https://www.isc.hbs.edu/competitiveness-economic-development/frameworks-and-key-concepts/Pages/the-diamond-model.aspx">
+        <img src="https://img.shields.io/badge/-The%20Diamond%20Model-1E90FF?style=for-the-badge" alt="The Diamond Model" />
+    </a>
+    <a href="https://www.mitre.org/">
+        <img src="https://img.shields.io/badge/-MITRE-8B0000?style=for-the-badge" alt="MITRE" />
+    </a>
+</div>
+
+    
 ### Network Traffic & Traffic Analysis
 <div>
     <a href="https://www.wireshark.org/">
