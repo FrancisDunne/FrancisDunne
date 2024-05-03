@@ -68,7 +68,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 ### Cyber Threat Intelligence
 <div>
     <a href="https://docs.opencti.io/latest/">
-        <img src="https://img.shields.io/badge/OpenCTI%20Documentation-008000?style=for-the-badge" alt="OpenCTI Documentation" />
+        <img src="https://img.shields.io/badge/OpenCTI%20Documentation-008000?style=for-the-badge" alt="OpenCTI" />
     </a>
     <a href="https://www.misp-project.org/">
         <img src="https://img.shields.io/badge/MISP-0000FF?style=for-the-badge" alt="MISP" />
@@ -79,6 +79,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 <div>
     <a href="https://www.autopsy.com/">
         <img src="https://img.shields.io/badge/-Autopsy-B19CD9?style=for-the-badge&logo=Autopsy&logoColor=white" alt="Autopsy" />
+    </a>
+      <a href="https://www.velocidex.com/">
+        <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     </a>
 
 </div>
