@@ -69,10 +69,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     <a href="https://www.misp-project.org/">
         <img src="https://img.shields.io/badge/MISP-0000FF?style=for-the-badge" alt="MISP" />
     </a>
-
-
-
 </div>
+
+### 
 
 
 ## Certifications
