@@ -113,6 +113,10 @@ My journey into the I.T. field has led me to develop a passion for cybersecurity
     <a href="https://aws.amazon.com/free/?gclid=CjwKCAjwouexBhAuEiwAtW_Zx052veC12-Az76Vb-YZPDDvmFBOIeXm8LSoq8uEazlDKyvbS_fYvvxoCaXUQAvD_BwE&trk=f17b4b4e-aa1b-4189-b0c4-81a19b53f625&sc_channel=ps&ef_id=CjwKCAjwouexBhAuEiwAtW_Zx052veC12-Az76Vb-YZPDDvmFBOIeXm8LSoq8uEazlDKyvbS_fYvvxoCaXUQAvD_BwE:G:s&s_kwcid=AL!4422!3!645186168166!e!!g!!aws!19579892551!148838343321&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
     <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS" />
 </a>
+    <a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=emea-de-all-en-bkws-all-all-trial-e-gcp-1707574&utm_content=text-ad-none-any-DEV_c-CRE_500236788645-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-+GCP+-+General+-+v1-KWID_43700060393213373-kwd-6458750523-userloc_9044536&utm_term=KW_google%20cloud-NET_g-PLAC_&&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx3PFfwMkWfMFIJW8sUocB6P1-Zo1aXyXSo0XwCZ-mZr775yt0gHC4xoCE0oQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Google Cloud Platform" />
+</a>
+
 
 
 </div>
