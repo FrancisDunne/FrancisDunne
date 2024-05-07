@@ -105,9 +105,12 @@ My journey into the I.T. field has led me to develop a passion for cybersecurity
     </a>
 </div>
 
-### Penetration tools
+### Cloud Services
 <div>
-    
+    <a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE_k_&OCID=AIDcmmzzaokddl_SEM__k_CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE">
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure" />
+</a>
+
 </div>
 
 
