@@ -123,8 +123,9 @@ My journey into the I.T. field has led me to develop a passion for cybersecurity
 
 <div>
 <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/">
-    <img src="https://img.shields.io/badge/-Microsoft%20Hyper-V-0078D6?style=for-the-badge&logo=Microsoft%20Hyper-V&logoColor=white" alt="Microsoft Hyper-V" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Hyper--V-0078D6?style=for-the-badge&logo=Microsoft%20Hyper-V&logoColor=white" alt="Microsoft Hyper-V" />
 </a>
+
 <a href="https://www.virtualbox.org/">
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" />
 </a>
