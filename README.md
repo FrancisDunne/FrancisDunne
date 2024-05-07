@@ -110,6 +110,10 @@ My journey into the I.T. field has led me to develop a passion for cybersecurity
     <a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE_k_&OCID=AIDcmmzzaokddl_SEM__k_CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx9HVJGweaoM6MgCt5UoWT2YHLJom40hZ2i2SWjaUXzK86c01bouvcRoCl2MQAvD_BwE">
     <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure" />
 </a>
+    <a href="https://aws.amazon.com/free/?gclid=CjwKCAjwouexBhAuEiwAtW_Zx052veC12-Az76Vb-YZPDDvmFBOIeXm8LSoq8uEazlDKyvbS_fYvvxoCaXUQAvD_BwE&trk=f17b4b4e-aa1b-4189-b0c4-81a19b53f625&sc_channel=ps&ef_id=CjwKCAjwouexBhAuEiwAtW_Zx052veC12-Az76Vb-YZPDDvmFBOIeXm8LSoq8uEazlDKyvbS_fYvvxoCaXUQAvD_BwE:G:s&s_kwcid=AL!4422!3!645186168166!e!!g!!aws!19579892551!148838343321&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
+    <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS" />
+</a>
+
 
 </div>
 
