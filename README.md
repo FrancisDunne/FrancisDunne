@@ -117,9 +117,20 @@ My journey into the I.T. field has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Google Cloud Platform" />
 </a>
 
-
-
 </div>
+
+### Virtualization Software
+
+<div>
+<a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/">
+    <img src="https://img.shields.io/badge/-Microsoft%20Hyper-V-0078D6?style=for-the-badge&logo=Microsoft%20Hyper-V&logoColor=white" alt="Microsoft Hyper-V" />
+</a>
+<a href="https://www.virtualbox.org/">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" />
+</a>
+</div>
+
+
 
 
 ## Certifications
