@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey into the I.T. field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, I.T. systems engineer/administrator or a Cyber security consultant position.
+My journey into the I.T. field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be an I.T Security Analyst.
 
 ## Skills
 
