@@ -1,7 +1,7 @@
 # Hello, I'm Francis
 <a href="https://www.linkedin.com/in/francis-d-37984a265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I come from an Electrical Engineering background, collaboration and harmony is my strenght.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I come from an Electrical Engineering background, collaboration and adaptation is my strenght.
 
 ## Objective
 
